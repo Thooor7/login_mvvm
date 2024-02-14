@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="sing_up">Ainda não é cadastrado? Cadastre-se!</string>
+    <string name="login">LOGIN</string>
+</resources>
